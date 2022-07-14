@@ -30,7 +30,7 @@ class MyHomePage extends StatelessWidget {
         title: const Text('Mono Icons'),
       ),
       body: const Center(
-        child: Icon(MonoIcons.add),
+        child: Icon(MonoIcons.remove),
       ),
     );
   }
