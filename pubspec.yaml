@@ -1,7 +1,7 @@
 name: mono_icons
 description: Flutter implementation of the Mono Icons icons pack (https://github.com/mono-company/mono-icons).
-version: 1.0.0+1
-homepage: https://github.com/lorenzOliveto/mono_icons_flutter
+version: 1.0.0+2
+repository: https://github.com/lorenzOliveto/mono_icons_flutter
 author: Lorenzo Oliveto
 
 environment:
